@@ -3,6 +3,8 @@
 Здесь представлено портфолио, демонстрирующее результаты моей работы на проекте образовательной платформы U-Verse.  
 NDA соблюдается, документы не содержат конфиденциальных данных.
 
+**Образование:**
+[GetAnalyst](https://github.com/PavelSALN/PavelSaln/blob/main/%D0%A1%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB.png)
 **Резюме:**  
 [https://hh.ru/](https://spb.hh.ru/resume/a4b96f90ff0f33523e0039ed1f337755524236)
 
